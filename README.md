@@ -27,71 +27,77 @@ Community aspect :
 Organisation des idées :
 
 Caractéristiques Clés du Site
-1. Annuaire d’Artistes + Marketplace Intégrée
-- Fiches détaillées pour chaque artiste
-Bio et description du style artistique
-Galerie d’exemples
-Tarifs avec options personnalisables (ex : "ajouter un décor", "personnage supplémentaire", etc.)
-Indication du statut des commissions : Ouvert / Fermé / Liste d’attente
-Évaluations et avis vérifiés
 
-- Système de recherche avancée
-Recherche par style, prix, délai estimé, et spécialisation
-Tags pour le type de contenu (SFW, NSFW, Ref Sheet, etc.)
-Filtre par langue et moyen de paiement accepté
+I. Annuaire d’Artistes + Marketplace Intégrée
 
-- Mise en avant des nouveaux artistes
-Section "Découverte du moment"
-Page de promotion pour les artistes émergents
+ I.1. Fiches détaillées pour chaque artiste
+ - Bio et description du style artistique
+ - Galerie d’exemples
+ - Tarifs avec options personnalisables (ex : "ajouter un décor", "personnage supplémentaire", etc.)
+ - Indication du statut des commissions : Ouvert / Fermé / Liste d’attente
+ - Évaluations et avis vérifiés
+ 
+ I.2. Système de recherche avancée
+ - Recherche par style, prix, délai estimé, et spécialisation
+ - Tags pour le type de contenu (SFW, NSFW, Ref Sheet, etc.)
+ - Filtre par langue et moyen de paiement accepté
+ 
+ I.3. Mise en avant des nouveaux artistes
+ - Section "Découverte du moment"
+ - Page de promotion pour les artistes émergents
 
-2. Paiement et Gestion des Transactions
-- Système de paiement intégré
-Paiements via PayPal, Stripe, cartes bancaires
-Protection contre les fraudes et chargebacks
-Possibilité de paiement en plusieurs fois pour les grosses commandes
+II. Paiement et Gestion des Transactions
 
-- Escrow (sécurisation des paiements)
-Le paiement est prélevé mais reste bloqué jusqu’à la validation finale de l’œuvre
-Libération des fonds à l’artiste une fois que le client confirme la réception
+ II.1. Système de paiement intégré
+ - Paiements via PayPal, Stripe, cartes bancaires
+ - Protection contre les fraudes et chargebacks
+ - Possibilité de paiement en plusieurs fois pour les grosses commandes
+ 
+ II.2. Escrow (sécurisation des paiements)
+ - Le paiement est prélevé mais reste bloqué jusqu’à la validation finale de l’œuvre
+ - Libération des fonds à l’artiste une fois que le client confirme la réception
+ 
+ II.3. Gestion des commandes simplifiée
+ - Suivi de l’état de la commande en temps réel (Ex: "En attente", "Croquis validé", "Finalisation en cours", "Livré")
+ - Notifications pour informer l’artiste et le client de chaque étape (Envoie mail/sms/ notif sur tel et pc pour assurer réactivité)
 
-- Gestion des commandes simplifiée
-Suivi de l’état de la commande en temps réel (Ex: "En attente", "Croquis validé", "Finalisation en cours", "Livré")
-Notifications pour informer l’artiste et le client de chaque étape (Envoie mail/sms/ notif sur tel et pc pour assurer réactivité)
+III. Guide et Assistance pour les Clients
 
- 3. Guide et Assistance pour les Clients
-- Aide à la commande
-Formulaire interactif pour aider à bien rédiger une commande (ex : fournir des références, préciser le style souhaité)
-FAQ complète sur les droits d’auteur et les licences d’utilisation
+ III.1. Aide à la commande
+ - Formulaire interactif pour aider à bien rédiger une commande (ex : fournir des références, préciser le style souhaité)
+ - FAQ complète sur les droits d’auteur et les licences d’utilisation
+ 
+ III.2. Système de support client intégré
+ - Assistance via chat ou ticket en cas de problème avec une commande
+ - Médiation en cas de litige entre client et artiste
+ 
+ III.3. Comparateur d’artistes
+ - Permet de visualiser plusieurs artistes côte à côte avec prix, délai et exemples
 
-- Système de support client intégré
-Assistance via chat ou ticket en cas de problème avec une commande
-Médiation en cas de litige entre client et artiste
+IV. Outils pour les Artistes
 
-- Comparateur d’artistes
-Permet de visualiser plusieurs artistes côte à côte avec prix, délai et exemples
+ IV.1. Tableau de bord professionnel
+ - Suivi des commandes en cours
+ - Gestion des paiements et retraits
+ - Possibilité de programmer des "Ouvertures de commissions" et d’envoyer des alertes aux clients intéressés
+ 
+ IV.2. Système de prévisualisation
+ - Option permettant d’envoyer un "Aperçu filigrané" avant validation finale
+ - Possibilité de proposer des révisions avec suivi des modifications demandées
+ 
+ IV.3. Gestion de la visibilité et marketing
+ - Possibilité de proposer des réductions et offres spéciales
+ - Création de "Bundles" (ex : Pack Icon + Ref Sheet à prix réduit)
+ - Section "Collaborations" pour permettre aux artistes de travailler ensemble
 
-4. Outils pour les Artistes
-- Tableau de bord professionnel
-Suivi des commandes en cours
-Gestion des paiements et retraits
-Possibilité de programmer des "Ouvertures de commissions" et d’envoyer des alertes aux clients intéressés
+V. Communauté et Événements
 
-- Système de prévisualisation
-Option permettant d’envoyer un "Aperçu filigrané" avant validation finale
-Possibilité de proposer des révisions avec suivi des modifications demandées
-
-- Gestion de la visibilité et marketing
-Possibilité de proposer des réductions et offres spéciales
-Création de "Bundles" (ex : Pack Icon + Ref Sheet à prix réduit)
-Section "Collaborations" pour permettre aux artistes de travailler ensemble
-
-5. Communauté et Événements
-- Système de messagerie interne sécurisé
-Permettre aux clients et artistes d’échanger directement sur la plateforme sans devoir passer par Telegram ou Twitter
-
-- Blog et Ressources
-Articles sur comment progresser en dessin et gérer ses commissions
-Interviews et spotlight sur des artistes du moment
-
-- Concours et événements
-Challenges artistiques, concours et collabs 
+ V.1. Système de messagerie interne sécurisé
+ - Permettre aux clients et artistes d’échanger directement sur la plateforme sans devoir passer par Telegram ou Twitter
+ 
+ V.2. Blog et Ressources
+ - Articles sur comment progresser en dessin et gérer ses commissions
+ - Interviews et spotlight sur des artistes du moment
+ 
+ V.3. Concours et événements
+ - Challenges artistiques, concours et collabs 
